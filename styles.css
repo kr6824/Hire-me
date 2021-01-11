@@ -1,0 +1,36 @@
+body {
+    background: url("https://previews.123rf.com/images/svetlanass/svetlanass1803/svetlanass180300007/97003066-abstract-flower-on-a-light-background.jpg");
+}
+
+img {
+    height: 100%;
+    width: 300px;
+}
+
+li {
+    font-size: 30px;
+    color: Brown;
+}
+
+.sketch {
+    color: #a813f2;
+}
+
+.sport {
+    color: orange;
+}
+
+h1 {
+    font-size: 30px;
+    color: #2f782c;
+}
+
+img {
+    border: 20px groove grey;
+}
+
+p {
+    border: 10px dotted #ef85ff;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-size: 25px;
+}
